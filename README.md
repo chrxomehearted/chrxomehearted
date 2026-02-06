@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working at the ICT/Policy Research Statistics department  **Federal Road Safety Corps Nigeria**
+- 🔭 I’m currently working at the ICT/Policy Research Statistics department of **Federal Road Safety Corps Nigeria**
 - 🌱 I’m currently learning **Cloud Computing**
 - 👯 I’m looking to collaborate on **Data Projects**
 - 💬 Ask me about **PowerBI, SQL, Excel, Python, Cloud Computing**
