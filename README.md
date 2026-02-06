@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/chrxomehearted">Osawe Peniel</a>! 👋</h1>
-  <h3>A passionate Frontend / Backend / Full Stack Developer from [Your Location]</h3>
+  <h3>A passionate data analyst / BI Analyst / Cloud Architect from Nigeria</h3>
 
   <p>
     <a href="https://linkedin.com/in/osawe-peniel-288b11257" target="_blank">
