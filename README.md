@@ -33,22 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrxomehearted&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrxomehearted&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrxomehearted&theme=radical&hide_border=true" alt="streak stats" />
-</div>
-
----
-
-<div align="center">
-  <p>Thanks for visiting!</p>
-</div>
 ---
 
 <div align="center">
